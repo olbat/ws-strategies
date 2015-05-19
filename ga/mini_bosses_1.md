@@ -1,5 +1,5 @@
-Mini-Bosses
-===========
+Mini-Bosses (1er étage)
+=======================
 
 Mutant affreusement mal formé
 -----------------------------

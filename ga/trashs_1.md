@@ -1,5 +1,5 @@
-Trashs
-======
+Trashs (1er étage)
+==================
 
 Les Néophages
 -------------
