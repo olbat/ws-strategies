@@ -1,0 +1,86 @@
+#!/usr/bin/ruby
+
+Encoding::default_external = Encoding::UTF_8 if defined? Encoding
+
+# read text from shell
+s = $stdin.read
+
+# horizontal rule
+#s.gsub! /^(- *|\* *){3,}$/, '[hr]'
+#s.gsub! /^([a-zA-Z].*)\n^\s*([a-zA-Z])/, '\\1 \\2'
+s.gsub! /^(\s*[a-zA-Z].*)\n\n^\s*([a-zA-Z])/, "\\1\n\\2"
+#s.gsub! /^(.*)\n\n(.*)$/, "\\1\n\\2"
+s.gsub! /\n\n\n$/, "\n\n"
+
+# bold and italic
+s.gsub! /\*\*\*(\S.*?)\*\*\*/, '[b][i]\1[/i][/b]'
+s.gsub! /___(\S.*?)___/, '[b][i]\1[/i][/b]'
+
+# bold
+s.gsub! /\*\*(\S.*?)\*\*/, '[b]\1[/b]'
+s.gsub! /__(\S.*?)__/, '[b]\1[/b]'
+
+# italic
+s.gsub! /\*(\S.*?)\*/, '[i]\1[/i]'
+s.gsub! /_(\S.*?)_/, '[i]\1[/i]'
+
+# strike through
+s.gsub! /~~(.*)~~/, '[s]\1[/s]'
+
+# quote
+s.gsub! /^>\s(.*)/, "[quote]\n\\1\n[/quote]"
+
+# image that sends to url
+s.gsub! /\[!\[[^\]]*\]\(([^)]*)\)\]\(([^)]*)\)/, '[url=\2][img=\1][/url]'
+
+# image
+s.gsub! /!\[[^\]]*\]\(([^)]*)\)/, '[img=\1]'
+
+# url
+s.gsub! /\[([^\]]*)\]\(([^)]*)\)/, '[url=\2]\1[/url]'
+
+# code block
+## with backticks
+s.gsub! /```(.*?)```/m, '[spoil]\1[/spoil]'
+s.gsub! /\[\/spoil\]\n\n/, "[/spoil]\n"
+
+## with spacing or tabs
+s.gsub! /^\n(^ {4}|\t)/, "\n[code]\n\\1" # beginning
+s.gsub! /\A(^ {4}|\t)/, "[code]\n\\1" # if beginning of text
+s.gsub! /^(( {4}|\t).*)\n\n/, "\\1\n[/code]\n\n" # end
+s.gsub! /^(( {4}|\t).*)$\z/, "\\1\n[/code]" # if end of text
+s.gsub! /(^ {4}|\t)/, '' # middle
+
+# inline code
+s.gsub! /`(.*?)`/, '[font=courier new,courier,monospace]\1[/font]'
+
+# headers
+s.gsub! /^#\s(.*?)[ #]*$/, '[size=170][b]\1[/b][/size]' # big
+s.gsub! /^(.*?)$\n^===[ =]*$/, '[size=170][b]\1[/b][/size]' # big
+s.gsub! /^##\s(.*?)[ #]*$/, '[size=135][b]\1[/b][/size]' # medium
+s.gsub! /^(.*?)$\n^---[ -]*$/, '[size=135][b]\1[/b][/size]' # medium
+s.gsub! /^###\s(.*?)[ #]*$/, '[size=125][b]\1[/b][/size]' # small
+s.gsub! /^####\s(.*?)[ #]*$/, '[size=115][b]\1[/b][/size]' # very small
+
+# lists
+## unordered
+s.gsub! /^([^-].*)\n^([*+-]\s)/, "\\1\n[list]\n\\2" # beginning
+#s.gsub! /\A^([*+-]\s)/, "[list]\n\\1" # if beginning of text
+s.gsub! /^([*+-]\s.*)\n(^[^-].*)/, "\\1\n[/list]\n\\2" # end
+#s.gsub! /^([*+-]\s.*)\z/, "\\1\n[/list]" # if end of text
+s.gsub! /^[*+-]\s(.*)/, '[*]\1[/*]' # middle
+s.gsub! /\[\/list\]\n\n/, "[/list]\n"
+
+## ordered
+s.gsub! /^\n^(\d\.\s)/, "\n[list=1]\n\\1" # beginning
+s.gsub! /\A^(\d\.\s)/, "[list=1]\n\\1" # if beginning of text
+s.gsub! /^(\d\.\s.*)\n\n/, "\\1\n[/list]\n\n" # end
+s.gsub! /^(\d\.\s.*)\z/, "\\1\n[/list]" # if end of text
+s.gsub! /^\d\.\s(.*)/, '[*]\1[/*]' # middle
+
+# footnotes
+s.gsub! /^(\[\^.*?\].*)/, "\n\\1" # spacing between references
+s.gsub! /^\n{2}(\[\^.*?\])/, "\n" + "—"*10 + "\n\\1" # division before references
+s.gsub! /\[\^(.*?)\]/, '[sup]\1[/sup]' # footnotes in text
+
+print s
