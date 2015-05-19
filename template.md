@@ -10,5 +10,6 @@
 ## Composition du raid
 ## Annoncé sur le vocal
 ## Traductions
+## Media
 ## Tips
 ## Liens
