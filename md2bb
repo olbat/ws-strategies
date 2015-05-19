@@ -8,9 +8,9 @@ s = $stdin.read
 # horizontal rule
 #s.gsub! /^(- *|\* *){3,}$/, '[hr]'
 #s.gsub! /^([a-zA-Z].*)\n^\s*([a-zA-Z])/, '\\1 \\2'
-s.gsub! /^(\s*[a-zA-Z].*)\n\n^\s*([a-zA-Z])/, "\\1\n\\2"
+s.gsub! /\n\n(\s*[^=\-#*+`])/, "\n\\1"
 #s.gsub! /^(.*)\n\n(.*)$/, "\\1\n\\2"
-s.gsub! /\n\n\n$/, "\n\n"
+s.gsub! "\n\n\n", "\n\n"
 
 # bold and italic
 s.gsub! /\*\*\*(\S.*?)\*\*\*/, '[b][i]\1[/i][/b]'
@@ -45,10 +45,10 @@ s.gsub! /```(.*?)```/m, '[spoil]\1[/spoil]'
 s.gsub! /\[\/spoil\]\n\n/, "[/spoil]\n"
 
 ## with spacing or tabs
-s.gsub! /^\n(^ {4}|\t)/, "\n[code]\n\\1" # beginning
-s.gsub! /\A(^ {4}|\t)/, "[code]\n\\1" # if beginning of text
-s.gsub! /^(( {4}|\t).*)\n\n/, "\\1\n[/code]\n\n" # end
-s.gsub! /^(( {4}|\t).*)$\z/, "\\1\n[/code]" # if end of text
+s.gsub! /^(^ {4}|\t)/, "[code]\n\\1" # beginning
+#s.gsub! /\A(^ {4}|\t)/, "[code]\n\\1" # if beginning of text
+s.gsub! /^(( {4}|\t).*)\n/, "\\1\n[/code]\n" # end
+#s.gsub! /^(( {4}|\t).*)$\z/, "\\1\n[/code]" # if end of text
 s.gsub! /(^ {4}|\t)/, '' # middle
 
 # inline code
