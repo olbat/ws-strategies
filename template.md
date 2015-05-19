@@ -9,6 +9,6 @@
 ## Placement du raid
 ## Composition du raid
 ## Annoncé sur le vocal
-## Sorts
+## Traductions
 ## Tips
 ## Liens
