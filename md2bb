@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+# This script is based on http://github.com/vitorgalvao/alfred-workflows (MarkdownBulletin) witch is licenced under The Unlicense licence (http://unlicense.org/UNLICENSE)
+
 Encoding::default_external = Encoding::UTF_8 if defined? Encoding
 
 # read text from shell
