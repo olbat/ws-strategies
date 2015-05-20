@@ -59,9 +59,9 @@ s.gsub! /`(.*?)`/, '[font=courier new,courier,monospace]\1[/font]'
 # headers
 s.gsub! /^#\s(.*?)[ #]*$/, '[size=170][b]\1[/b][/size]' # big
 s.gsub! /^(.*?)$\n^===[ =]*$/, '[size=170][b]\1[/b][/size]' # big
-s.gsub! /^##\s(.*?)[ #]*$/, '[size=135][b]\1[/b][/size]' # medium
-s.gsub! /^(.*?)$\n^---[ -]*$/, '[size=135][b]\1[/b][/size]' # medium
-s.gsub! /^###\s(.*?)[ #]*$/, '[size=125][b]\1[/b][/size]' # small
+s.gsub! /^##\s(.*?)[ #]*$/, '[size=150][b]\1[/b][/size]' # medium
+s.gsub! /^(.*?)$\n^---[ -]*$/, '[size=150][b]\1[/b][/size]' # medium
+s.gsub! /^###\s(.*?)[ #]*$/, '[size=130][b]\1[/b][/size]' # small
 s.gsub! /^####\s(.*?)[ #]*$/, '[size=115][b]\1[/b][/size]' # very small
 
 # lists
