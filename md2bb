@@ -57,12 +57,14 @@ s.gsub! /(^ {4}|\t)/, '' # middle
 s.gsub! /`(.*?)`/, '[font=courier new,courier,monospace]\1[/font]'
 
 # headers
-s.gsub! /^#\s(.*?)[ #]*$/, '[size=170][b]\1[/b][/size]' # big
-s.gsub! /^(.*?)$\n^===[ =]*$/, '[size=170][b]\1[/b][/size]' # big
-s.gsub! /^##\s(.*?)[ #]*$/, '[size=150][b]\1[/b][/size]' # medium
-s.gsub! /^(.*?)$\n^---[ -]*$/, '[size=150][b]\1[/b][/size]' # medium
-s.gsub! /^###\s(.*?)[ #]*$/, '[size=130][b]\1[/b][/size]' # small
-s.gsub! /^####\s(.*?)[ #]*$/, '[size=115][b]\1[/b][/size]' # very small
+tmp = '[size=170][b]\1[/b][/size]'
+s.gsub! /^#\s(.*?)[ #]*$/, tmp # big
+s.gsub! /^(.*?)$\n^===[ =]*$/, tmp # big
+tmp = '[indent]10[/indent][size=150][b]\1[/b][/size]'
+s.gsub! /^##\s(.*?)[ #]*$/, tmp # medium
+s.gsub! /^(.*?)$\n^---[ -]*$/, tmp # medium
+s.gsub! /^###\s(.*?)[ #]*$/, '[indent]15[/indent][size=130][b]\1[/b][/size]' # small
+s.gsub! /^####\s(.*?)[ #]*$/, '[indent]20[/indent][size=115][b]\1[/b][/size]' # very small
 
 # lists
 ## unordered
