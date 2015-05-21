@@ -4,6 +4,7 @@ Trashs (1er étage)
 ---
 Les Néophages
 =============
+![Les Néophages](http://i.imgur.com/uDq6KKh.png)
 
 Les attaques à éviter
 ---------------------
@@ -48,6 +49,7 @@ Traductions
 ---
 Éleveur de Fléaux
 =================
+![Éleveur de Fléaux](http://i.imgur.com/KiMpZlY.png)
 
 Stratégie générale
 ------------------
@@ -81,6 +83,7 @@ Traductions
 ---
 Abomination expérimentale corrompue (x2)
 ========================================
+![Abomination expérimentale corrompue](http://i.imgur.com/n7QN6XD.png)
 
 Stratégie générale
 ------------------
@@ -116,6 +119,7 @@ Traductions
 ---
 Symbiote Génétique (x2)
 =======================
+![Symbiote Génétique](http://i.imgur.com/shkts0I.png)
 
 Stratégie générale
 ------------------
@@ -157,6 +161,7 @@ Traductions
 ---
 Abominations Génétiques
 =======================
+![Abominations Génétiques](http://i.imgur.com/FqDexYU.png)
 
 Stratégies générale
 -------------------
@@ -169,6 +174,7 @@ Traductions
 ---
 Les araignées
 =============
+![Les araignées](#)
 
 Important
 ---------
