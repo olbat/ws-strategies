@@ -8,7 +8,7 @@ Mutant horriblement déformé
 
 Stratégie générale
 ------------------
-Le boss fait apparaitre des poulpes:
+- Le boss fait apparaitre des poulpes:
 - Si le boss les mange il gagne un buff de dégats (stack)
 - Chaque joueur touché par un poulpe prend un DoT&debuff (stack) + une AOE à ses pieds
 
@@ -46,8 +46,8 @@ Monstruosité génétique
 
 Stratégie générale
 ------------------
-Le tank fait tourner le boss dans la salle.
-De temps en temps il le place sous la douche: MOO.
+- Le tank fait tourner le boss dans la salle
+- De temps en temps il le place sous la douche: MOO
 
 Les attaques à éviter
 ---------------------
@@ -108,16 +108,16 @@ Opérateur du Gravitron
 
 Stratégie générale
 ------------------
-Tous les 25% HP, le boss met tout le raid à 1HP et le propulse en l'air qui doit se débrouiller pour aterrir dans une safe-zone (la zone apparait avant le bump: prendre ses repères avant chaque ~25% HP)
-Durant le fight au sol le boss fait de temps en temps apparaitre des zones sur un joueur au hasard qui le fait sauter en l'air à la fin du cast
-De temps en temps il attire tout le raid sur lui et cast une AOE dont les dégats sont répartis sur les personnes touchées
+- Tous les 25% HP, le boss met le raid à 1HP et le propulse en l'air
+- Le boss fait apparaitre des zones sous des joueurs au hasard: bump en l'air à la fin du cast
+- Il attire tout le raid sur lui et cast une AOE dont les dégats sont répartis sur les personnes touchées
 
 Important
 ---------
 - Se répartir pour éviter de se faire bump par [Pointe de gravité](http://wildstar.datminer.com/fr/spell/62708)
 - Les joueurs ciblés par [Pointe de gravité](http://wildstar.datminer.com/fr/spell/62708) ne doivent pas bouger
 - Ne pas sortir de l'AOE de [Flux de gravité](http://wildstar.datminer.com/fr/spell/2826) (quand le boss attire le raid)
-- Attérir dans la safe-zone verte lorsque le raid est projeté en l'air par [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736)
+- Attérir dans la safe-zone verte lorsque le raid est projeté en l'air par [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736) (la zone apparait avant le bump: prendre ses repères avant chaque ~25% HP)
 - Se regrouper après [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736) pour se faire healer
 
 
@@ -162,7 +162,8 @@ Malformation fétide
 
 Stratégie générale
 ------------------
-Boss poteau, stack des buffs qui augmentent sont attaque et réduit les dégats qu'il subit
+- Boss poteau
+- Stack des buffs qui augmentent sont attaque et réduit les dégats qu'il subit
 
 Important
 ---------
