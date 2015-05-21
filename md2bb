@@ -85,4 +85,9 @@ s.gsub! /^(\[\^.*?\].*)/, "\n\\1" # spacing between references
 s.gsub! /^\n{2}(\[\^.*?\])/, "\n" + "—"*10 + "\n\\1" # division before references
 s.gsub! /\[\^(.*?)\]/, '[sup]\1[/sup]' # footnotes in text
 
+
+### Non-"standard" ###
+#
+s.gsub! /^(https?:\/\/www\.youtube\.com\/\S+)$/, "[align=center][bbvideo=853,480]\\1[/bbvideo][/align]"
+
 print s
