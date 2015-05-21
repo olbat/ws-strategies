@@ -23,7 +23,7 @@ Le boss fait apparaitre des poulpes:
 - [Mutant horriblement déformé](http://wildstar.datminer.com/fr/npc/56178) / [Hideously Malformed Mutant](http://wildstar.datminer.com/en/npc/56178)
 - [Consommation Génétique](http://wildstar.datminer.com/fr/spell/62733) / [Genetic Consumption](http://wildstar.datminer.com/en/spell/62733)
 
-### Media
+### Vidéo
 https://www.youtube.com/watch?v=v6ruXYn1JZ8
 
 ### Liens
@@ -74,7 +74,7 @@ De temps en temps il le place sous la douche: MOO.
 - [Écrasement](http://wildstar.datminer.com/fr/spell/61398) / [Crush](http://wildstar.datminer.com/en/spell/61398)
 - [Coup Violent](http://wildstar.datminer.com/fr/spell/61396) / [Smash](http://wildstar.datminer.com/en/spell/61396)
 
-### Media
+### Vidéo
 https://www.youtube.com/watch?v=9DbuVepAbdU
 
 ### Liens
@@ -119,7 +119,7 @@ De temps en temps il attire tout le raid sur lui et cast une AOE dont les dégat
 - [Pointe de gravité](http://wildstar.datminer.com/fr/spell/62708) / [Gravity Spike](http://wildstar.datminer.com/en/spell/62708)
 - [Flux de gravité](http://wildstar.datminer.com/fr/spell/2826) / [Gravity Flux](http://wildstar.datminer.com/en/spell/2826)
 
-### Media
+### Vidéo
 https://www.youtube.com/watch?v=B7bYK_-DtOo
 
 ### Liens
@@ -159,7 +159,7 @@ Boss poteau, stack des buffs qui augmentent sont attaque et réduit les dégats 
 - [Ravage](http://wildstar.datminer.com/fr/spell/62946) / [Ravage](http://wildstar.datminer.com/en/spell/62946/Ravage)
 - [Décomposition génétique](http://wildstar.datminer.com/fr/spell/62947) / [Genetic Decomposition](http://wildstar.datminer.com/en/spell/62947)
 
-### Media
+### Vidéo
 https://www.youtube.com/watch?v=ys8r-yJz68Q
 
 ### Liens

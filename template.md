@@ -21,7 +21,7 @@ Annoncé sur le vocal
 --------------------
 Traductions
 -----------
-Media
+Vidéo
 -----
 Tips
 ----
