@@ -53,8 +53,8 @@ Traductions
 
 Stratégie générale
 ------------------
-À chaque fois que l'éleveur est kick, il gagne un IA (il commence avec 1 IA): les groupes de kick sont à établire en fonction (2 puis 3 puis 4 ... kicks nécessaires)
-Il fait pop des adds qui peuvent tankés par un second tank et DPS en parallèle
+- À chaque fois que l'éleveur est kick, il gagne un IA (il commence avec 1 IA)
+- Il fait pop des adds qui peuvent tankés par un second tank et DPS en parallèle
 
 Important
 ---------
@@ -68,7 +68,7 @@ Composition du raid
 -------------------
 - 1-2 Tanks (éleveur/adds)
 - 1-2 Heals
-- 3-5 groupes de kick (en fonction du DPS): 2IA puis 3 puis 4 ...
+- 3-5 groupes de kick (en fonction du DPS): 2 puis 3 puis 4 ... kicks nécessaires
 
 Annoncé sur le vocal
 --------------------
@@ -87,7 +87,8 @@ Abomination expérimentale corrompue (x2)
 
 Stratégie générale
 ------------------
-Deux abominations tankées séparément, gagnent à tour de rôle un buff qui renvoit les dégats
+- Deux abominations tankées séparément
+- Elles gagnent à tour de rôle un buff qui renvoit les dégats
 
 Important
 ---------
@@ -123,7 +124,8 @@ Symbiote Génétique (x2)
 
 Stratégie générale
 ------------------
-Les deux symbiotes se buffent (diminution dégats) s'il sont à côté l'un de l'autre, ils doivent être tués ~en même temps
+- Les symbiotes se buffent (diminution dégats) s'il sont à proximoté l'un de l'autre
+- Ils doivent être tués ~ en même temps (à 10s près)
 
 Important
 ---------
@@ -165,7 +167,7 @@ Abominations Génétiques
 
 Stratégies générale
 -------------------
-Font pop des adds
+- Font pop des adds
 
 Traductions
 -----------
