@@ -4,6 +4,7 @@ Mini-Bosses (1er étage)
 ---
 Mutant horriblement déformé
 ===========================
+![Mutant horriblement déformé](http://i.imgur.com/xFQbIlv.jpg)
 
 Stratégie générale
 ------------------
@@ -41,6 +42,7 @@ Liens
 ---
 Monstruosité génétique
 ======================
+![Monstruosité génétique](http://i.imgur.com/AGGg7Ga.jpg)
 
 Stratégie générale
 ------------------
@@ -102,6 +104,7 @@ Liens
 ---
 Opérateur du Gravitron
 ======================
+![Opérateur du Gravitron](http://i.imgur.com/IK111ia.jpg)
 
 Stratégie générale
 ------------------
@@ -155,6 +158,7 @@ Liens
 ---
 Malformation fétide
 ===================
+![Malformation fétide](http://i.imgur.com/gF5Jro3.jpg)
 
 Stratégie générale
 ------------------
