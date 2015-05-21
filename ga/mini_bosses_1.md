@@ -1,7 +1,7 @@
 Mini-Bosses (1er étage)
 =======================
 
-
+---
 Mutant horriblement déformé
 ===========================
 
@@ -38,8 +38,7 @@ Liens
 -----
 - Une vidéo du combat: https://www.youtube.com/watch?v=v6ruXYn1JZ8
 
-
-
+---
 Monstruosité génétique
 ======================
 
@@ -100,8 +99,7 @@ Liens
 -----
 - Une vidéo du combat: https://www.youtube.com/watch?v=9DbuVepAbdU
 
-
-
+---
 Opérateur du Gravitron
 ======================
 
@@ -154,8 +152,7 @@ Liens
 -----
 - Une vidéo du combat: https://www.youtube.com/watch?v=B7bYK_-DtOo
 
-
-
+---
 Malformation fétide
 ===================
 
@@ -210,7 +207,7 @@ Liens
 -----
 - Une vidéo du combat: https://www.youtube.com/watch?v=ys8r-yJz68Q
 
-
+---
 Colosse néophage
 ================
 

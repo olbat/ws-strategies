@@ -1,7 +1,7 @@
 Trashs (1er étage)
 ==================
 
-
+---
 Les Néophages
 =============
 
@@ -45,8 +45,7 @@ Traductions
 - [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471/Recharge-r%C3%A9pulsive) / [Repulsive Recharge](http://wildstar.datminer.com/spell/61471/Repulsive-Recharge)
 - [Instinct prédateur de meute](http://wildstar.datminer.com/fr/spell/61461/Instinct-pr%C3%A9dateur-de-meute) / [Predatory Pack Instinc](http://wildstar.datminer.com/spell/61461/Predatory-Pack-Instinct)
 
-
-
+---
 Éleveur de Fléaux
 =================
 
@@ -79,8 +78,7 @@ Traductions
 - [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851/Reproduction-inf%C3%A2me) / [Vile Reproduction](http://wildstar.datminer.com/spell/69851/Vile-Reproduction)
 - [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544/Renforcement-de-la-Corruption) / [Empowering Corruption](http://wildstar.datminer.com/spell/56544/Empowering-Corruption)
 
-
-
+---
 Abomination expérimentale corrompue (x2)
 ========================================
 
@@ -115,8 +113,7 @@ Traductions
 -----------
 - [Abomination expérimentale corrompue](http://wildstar.datminer.com/fr/npc/54957/Abomination-exp%C3%A9rimentale-corrompue) / [Corrupted Experimental Abomination](http://wildstar.datminer.com/npc/54957/Corrupted-Experimental-Abomination)
 
-
-
+---
 Symbiote Génétique (x2)
 =======================
 
@@ -157,8 +154,7 @@ Traductions
 - [Symbiote Génétique](http://wildstar.datminer.com/fr/npc/53020/Symbiote-g%C3%A9n%C3%A9tique) / [Genetic Symbiote](http://wildstar.datminer.com/npc/53020/Genetic-Symbiote)
 - [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926/Onde-de-choc-symbiotique) / [Symbiotic Shockwave](http://wildstar.datminer.com/spell/56926/Symbiotic-Shockwave)
 
-
-
+---
 Abominations Génétiques
 =======================
 
@@ -170,8 +166,7 @@ Traductions
 -----------
 - [Abominations Génétiques](http://wildstar.datminer.com/fr/npc/53010/Abomination-g%C3%A9n%C3%A9tique) / [Genetic Abomination](http://wildstar.datminer.com/npc/53010/Genetic-Abomination)
 
-
-
+---
 Les araignées
 =============
 
