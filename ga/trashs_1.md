@@ -64,8 +64,8 @@ Les attaques à éviter
 
 Composition du raid
 -------------------
-- 1-2 tanks (éleveur/adds)
-- 1-2 heals
+- 1-2 Tanks (éleveur/adds)
+- 1-2 Heals
 - 3-5 groupes de kick (en fonction du DPS): 2IA puis 3 puis 4 ...
 
 Annoncé sur le vocal
@@ -101,8 +101,8 @@ Stratégies spécifiques
 
 Composition du raid
 -------------------
-- 2 tanks
-- 2-3 heals (1 par tank + raid)
+- 2 Tanks
+- 2-3 Heals (1 par tank + raid)
 - Le reste en DPS
 
 Annoncé sur le vocal
@@ -140,8 +140,8 @@ Stratégies spécifiques
 
 Composition du raid
 -------------------
-- 2 tanks
-- 2-3 heals (1 par tank + raid)
+- 2 Tanks
+- 2-3 Heals (1 par tank + raid)
 - Le reste en DPS _OU_ Deux groupes de DPS (un par symbiotes)
 
 Annoncé sur le vocal
