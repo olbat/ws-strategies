@@ -8,15 +8,15 @@ Les Néophages
 
 Les attaques à éviter
 ---------------------
-- [Précipitation enragée](http://wildstar.datminer.com/fr/spell/61467/Pr%C3%A9cipitation-enrag%C3%A9e): charge en ligne sur un joueur aléatoire
+- [Précipitation enragée](http://wildstar.datminer.com/fr/spell/61467): charge en ligne sur un joueur aléatoire
 
 Les attaques à intérompre
 -------------------------
-- [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471/Recharge-r%C3%A9pulsive): heal le pack (2 groupes de kick)
+- [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471): heal le pack (2 groupes de kick)
 
 Les (de)buffs
 -------------
-- [Instinct prédateur de meute](http://wildstar.datminer.com/fr/spell/61461/Instinct-pr%C3%A9dateur-de-meute): buff à dispell
+- [Instinct prédateur de meute](http://wildstar.datminer.com/fr/spell/61461): buff à dispell
 
 Stratégies spécifiques
 ----------------------
@@ -38,13 +38,13 @@ Composition du raid
 
 Traductions
 -----------
-- [Exterminateur néophage](http://wildstar.datminer.com/fr/npc/55043/Exterminateur-n%C3%A9ophage) / [Phageborn Deathdealer](http://wildstar.datminer.com/npc/55043/Phageborn-Deathdealer)
-- [Néophage conquérant](http://wildstar.datminer.com/fr/npc/55040/N%C3%A9ophage-conqu%C3%A9rant) / [Conquering Phageborn](http://wildstar.datminer.com/npc/55040/Conquering-Phageborn)
-- [Néophage tailleguerre](http://wildstar.datminer.com/fr/npc/55041/N%C3%A9ophage-tailleguerre) / [Wartorn Phageborn](http://wildstar.datminer.com/npc/55041/Wartorn-Phageborn)
-- [Portefléau néophage](http://wildstar.datminer.com/fr/npc/55042/Portefl%C3%A9au-n%C3%A9ophage) / [Phageborn Plaguebearer](http://wildstar.datminer.com/npc/55042/Phageborn-Plaguebearer)
-- [Précipitation enragée](http://wildstar.datminer.com/fr/spell/61467/Pr%C3%A9cipitation-enrag%C3%A9e) / [Raging Rush](http://wildstar.datminer.com/spell/61467/Raging-Rush)
-- [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471/Recharge-r%C3%A9pulsive) / [Repulsive Recharge](http://wildstar.datminer.com/spell/61471/Repulsive-Recharge)
-- [Instinct prédateur de meute](http://wildstar.datminer.com/fr/spell/61461/Instinct-pr%C3%A9dateur-de-meute) / [Predatory Pack Instinc](http://wildstar.datminer.com/spell/61461/Predatory-Pack-Instinct)
+- [Exterminateur néophage](http://wildstar.datminer.com/fr/npc/55043) / [Phageborn Deathdealer](http://wildstar.datminer.com/en/npc/55043)
+- [Néophage conquérant](http://wildstar.datminer.com/fr/npc/55040) / [Conquering Phageborn](http://wildstar.datminer.com/en/npc/55040)
+- [Néophage tailleguerre](http://wildstar.datminer.com/fr/npc/55041) / [Wartorn Phageborn](http://wildstar.datminer.com/en/npc/55041)
+- [Portefléau néophage](http://wildstar.datminer.com/fr/npc/55042) / [Phageborn Plaguebearer](http://wildstar.datminer.com/en/npc/55042)
+- [Précipitation enragée](http://wildstar.datminer.com/fr/spell/61467) / [Raging Rush](http://wildstar.datminer.com/en/spell/61467)
+- [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471) / [Repulsive Recharge](http://wildstar.datminer.com/en/spell/61471)
+- [Instinct prédateur de meute](http://wildstar.datminer.com/fr/spell/61461) / [Predatory Pack Instinc](http://wildstar.datminer.com/en/spell/61461)
 
 ---
 Éleveur de Fléaux
@@ -58,11 +58,11 @@ Stratégie générale
 
 Important
 ---------
-- Ne pas manquer les kicks (par groupe) de [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544/Renforcement-de-la-Corruption) qui permet au boss de se healer et fait de gros dégats au raid
+- Ne pas manquer les kicks (par groupe) de [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544) qui permet au boss de se healer et fait de gros dégats au raid
 
 Les attaques à éviter
 ---------------------
-- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851/Reproduction-inf%C3%A2me): fait apparaitre des AOEs rondes et persistentes
+- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851): fait apparaitre des AOEs rondes et persistentes
 
 Composition du raid
 -------------------
@@ -72,13 +72,13 @@ Composition du raid
 
 Annoncé sur le vocal
 --------------------
-- Les groupes qui kickent [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544/Renforcement-de-la-Corruption)
+- Les groupes qui kickent [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544)
 
 Traductions
 -----------
-- [Éleveur de fléaux](http://wildstar.datminer.com/fr/npc/52987/%C3%89leveur-de-fl%C3%A9aux) / [Plague Breeder](http://wildstar.datminer.com/npc/52987/Plague-Breeder)
-- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851/Reproduction-inf%C3%A2me) / [Vile Reproduction](http://wildstar.datminer.com/spell/69851/Vile-Reproduction)
-- [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544/Renforcement-de-la-Corruption) / [Empowering Corruption](http://wildstar.datminer.com/spell/56544/Empowering-Corruption)
+- [Éleveur de fléaux](http://wildstar.datminer.com/fr/npc/52987) / [Plague Breeder](http://wildstar.datminer.com/en/npc/52987)
+- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851) / [Vile Reproduction](http://wildstar.datminer.com/en/spell/69851)
+- [Renforcement de la Corruption](http://wildstar.datminer.com/fr/spell/56544) / [Empowering Corruption](http://wildstar.datminer.com/en/spell/56544)
 
 ---
 Abomination expérimentale corrompue (x2)
@@ -115,7 +115,7 @@ Annoncé sur le vocal
 
 Traductions
 -----------
-- [Abomination expérimentale corrompue](http://wildstar.datminer.com/fr/npc/54957/Abomination-exp%C3%A9rimentale-corrompue) / [Corrupted Experimental Abomination](http://wildstar.datminer.com/npc/54957/Corrupted-Experimental-Abomination)
+- [Abomination expérimentale corrompue](http://wildstar.datminer.com/fr/npc/54957) / [Corrupted Experimental Abomination](http://wildstar.datminer.com/en/npc/54957)
 
 ---
 Symbiote Génétique (x2)
@@ -133,11 +133,11 @@ Important
 
 Les attaques à éviter
 ---------------------
-- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926/Onde-de-choc-symbiotique): cône ~40° en face des symbiotes
+- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926): cône ~40° en face des symbiotes
 
 Les attaques à intérompre
 -------------------------
-- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926/Onde-de-choc-symbiotique)
+- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926)
 
 Stratégies spécifiques
 ----------------------
@@ -157,8 +157,8 @@ Annoncé sur le vocal
 
 Traductions
 -----------
-- [Symbiote Génétique](http://wildstar.datminer.com/fr/npc/53020/Symbiote-g%C3%A9n%C3%A9tique) / [Genetic Symbiote](http://wildstar.datminer.com/npc/53020/Genetic-Symbiote)
-- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926/Onde-de-choc-symbiotique) / [Symbiotic Shockwave](http://wildstar.datminer.com/spell/56926/Symbiotic-Shockwave)
+- [Symbiote Génétique](http://wildstar.datminer.com/fr/npc/53020) / [Genetic Symbiote](http://wildstar.datminer.com/en/npc/53020)
+- [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926) / [Symbiotic Shockwave](http://wildstar.datminer.com/en/spell/56926)
 
 ---
 Abominations Génétiques
@@ -171,7 +171,7 @@ Stratégies générale
 
 Traductions
 -----------
-- [Abominations Génétiques](http://wildstar.datminer.com/fr/npc/53010/Abomination-g%C3%A9n%C3%A9tique) / [Genetic Abomination](http://wildstar.datminer.com/npc/53010/Genetic-Abomination)
+- [Abominations Génétiques](http://wildstar.datminer.com/fr/npc/53010) / [Genetic Abomination](http://wildstar.datminer.com/en/npc/53010)
 
 ---
 Les araignées
