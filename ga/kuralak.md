@@ -5,9 +5,9 @@ Kuralak l'Impie
 
 Stratégie générale
 ------------------
-Phase 1: salle remplie de lasers qui font des rotations, le raid tourne autour du boss (2 aveuglements pendant cette phase)
+  Phase 1: salle remplie de lasers qui font des rotations, le raid tourne autour du boss (2 aveuglements pendant cette phase)
 
-Phase 2, gestion de la corruption et des oeufs:
+  Phase 2, gestion de la corruption et des oeufs:
 - La boss corromp un joueur au hasard: DoT et buff +100% dégats
 - Régulièrement, elle transorme les joueurs corrompu en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
 - La corruption est transmise aux joueur qui kickent les oeufs (en général dans la macro = les joueurs au plus gros DPS)
@@ -32,7 +32,7 @@ Les attaques à éviter
 
 Les attaques à intérompre
 -------------------------
-Rien
+  Rien
 
 Stratégies spécifiques
 ----------------------
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=yZcApz7hx-Y
 
 Tips
 ----
-L'add-on [RaidCore](http://www.curse.com/ws-addons/wildstar/227908-raidcore) est très pratique pour localiser les poteaux (marques N,S,E,O) ainsi que pour repérer les joueurs affectés par la corruption (heal). Accessoirement, il file les cooldowns des attaques de la boss.
+  L'add-on [RaidCore](http://www.curse.com/ws-addons/wildstar/227908-raidcore) est très pratique pour localiser les poteaux (marques N,S,E,O) ainsi que pour repérer les joueurs affectés par la corruption (heal). Accessoirement, il file les cooldowns des attaques de la boss.
 
 Liens
 -----

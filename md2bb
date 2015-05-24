@@ -90,8 +90,9 @@ s.gsub! /^\n{2}(\[\^.*?\])/, "\n" + "—"*10 + "\n\\1" # division before referen
 s.gsub! /\[\^(.*?)\]/, '[sup]\1[/sup]' # footnotes in text
 
 
-### Non-"standard" ###
+### Non-standard ###
 #
 s.gsub! /^(https?:\/\/www\.youtube\.com\/\S+)$/, "[align=center][bbvideo=640,360]\\1[/bbvideo][/align]"
+s.gsub! /^\s{2}([^\s])/, '[indent]20[/indent]\1'
 
 print s

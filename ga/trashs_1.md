@@ -182,7 +182,7 @@ Important
 ---------
 - Déposer les AOEs sous les oeufs (pour libérer la personne attachée)
 
-
+---
 Liens
 -----
 - Guide [en]: http://manoflegends.com/raid-first-floor-draft/

@@ -216,7 +216,7 @@ Liens
 Colosse néophage
 ================
 
-__À ÉVITER !__
+  __À ÉVITER !__
 
 Traductions
 -----------
