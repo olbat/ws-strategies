@@ -6,8 +6,9 @@ Kuralak l'Impie
 Stratégie générale
 ------------------
   Phase 1: salle remplie de lasers qui font des rotations, le raid tourne autour du boss, 2 aveuglements ([Disparaître dans les ténèbres](http://wildstar.datminer.com/fr/spell/60121)) pendant cette phase
+
   Phase 2, gestion de la corruption et des oeufs:
-- La boss corrompt un joueur au hasard: DoT et buff +100% dégats ([Corruption-chromosomique](http://wildstar.datminer.com/fr/spell/56652))
+- La boss corrompt un joueur au hasard: DoT et buff +100% dégats ([Corruption chromosomique](http://wildstar.datminer.com/fr/spell/56652))
 - Régulièrement, elle transforme les joueurs corrompu en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
 - La corruption est transmise aux joueurs qui kickent les oeufs (en général dans la macro = les joueurs au plus gros DPS)
 - En toute logique, 1 puis 2 puis 4 puis 8 (16 on oublie) joueurs seront affectés par la corruption et transformés en oeufs à chaque [Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)
@@ -69,7 +70,7 @@ Traductions
 -----------
 - [Kuralak la Profanatrice](http://wildstar.datminer.com/fr/npc/52969) / [Kuralak the Defiler](http://wildstar.datminer.com/en/npc/52969)
 - [Disparaître dans les ténèbres](http://wildstar.datminer.com/fr/spell/60121) / [Vanish into Darkness](http://wildstar.datminer.com/en/spell/60121)
-- [Corruption-chromosomique](http://wildstar.datminer.com/fr/spell/56652) / [Chromosome Corruption](http://wildstar.datminer.com/en/spell/56652)
+- [Corruption chromosomique](http://wildstar.datminer.com/fr/spell/56652) / [Chromosome Corruption](http://wildstar.datminer.com/en/spell/56652)
 - [Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559) / [Cultivate Corruption](http://wildstar.datminer.com/en/spell/60559)
 - [Répulsion](http://wildstar.datminer.com/fr/spell/57729) / [Vileness](http://wildstar.datminer.com/fr/spell/57729)
 - [Invasion](http://wildstar.datminer.com/fr/spell/60623) / [Outbreak](http://wildstar.datminer.com/en/spell/60623)
@@ -87,4 +88,7 @@ Tips
 Liens
 -----
 - Guide [fr]: http://angels-wings.fr/guide-archives-genetiques-kuralak/
+- Combat seul (vidéo) [fr]: https://www.youtube.com/watch?v=u3JR1f95xA4
+- Guide [en]: http://wildstar.gamepedia.com/Kuralak_the_Defiler
+- Combat seul (vidéo) [en]: https://www.youtube.com/watch?v=TzTJfcLMVJY
 
