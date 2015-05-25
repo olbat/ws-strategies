@@ -7,25 +7,25 @@ Stratégie générale
 ------------------
   Phase 1: salle remplie de lasers qui font des rotations, le raid tourne autour du boss, 2 aveuglements ([Disparaître dans les ténèbres](http://wildstar.datminer.com/fr/spell/60121)) pendant cette phase
   Phase 2, gestion de la corruption et des oeufs:
-- La boss corromp un joueur au hasard: DoT et buff +100% dégats ([Corruption-chromosomique](http://wildstar.datminer.com/fr/spell/56652))
-- Régulièrement, elle transorme les joueurs corrompu en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
-- La corruption est transmise aux joueur qui kickent les oeufs (en général dans la macro = les joueurs au plus gros DPS)
+- La boss corrompt un joueur au hasard: DoT et buff +100% dégats ([Corruption-chromosomique](http://wildstar.datminer.com/fr/spell/56652))
+- Régulièrement, elle transforme les joueurs corrompu en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
+- La corruption est transmise aux joueurs qui kickent les oeufs (en général dans la macro = les joueurs au plus gros DPS)
 - En toute logique, 1 puis 2 puis 4 puis 8 (16 on oublie) joueurs seront affectés par la corruption et transformés en oeufs à chaque [Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)
 - Si un joueur kick deux oeufs (ou un oeuf + la boss), il meurt => les joueurs corrompus se séparent (cf. Macro) à chaque pop des oeufs
-- Si un joueur corompu meurt, la corruption est transmise à un nouveau joueur au hasard
+- Si un joueur corrompu meurt, la corruption est transmise à un nouveau joueur au hasard
   Phase 2, le reste:
 - De temps en temps, la boss lance une AOE sur toute la salle ([Invasion](http://wildstar.datminer.com/fr/spell/60623)), on peut se cacher derrière un pilier pour l'éviter
   Durant tout le combat: le boss fait des petites AOE rondes qui ralentissent ([Répulsion](http://wildstar.datminer.com/fr/spell/57729))
 
 Important
 ---------
-- Au pull, courrir se stacker sur le boss
+- Au pull, courir se stacker sur le boss
 - Rester packés pendant la Phase 1 (Heal et buffs)
 - Le premier joueur ciblé par la corruption s'annonce sur le vocal, puis se placera au Nord à chaque pop des oeufs
 - Attention aux placements lors du pop des oeufs, mauvais placements = wipe
-- Si un joueur corrompu meurt, il annonce sont placement sur le vocal et un remplaçant prend sa place
+- Si un joueur corrompu meurt, il annonce son placement sur le vocal et un remplaçant prend sa place
 - Seul les tanks kickent [Siphon d'ADN](http://wildstar.datminer.com/fr/spell/56589)
-- Eviter de se faire toucher deux fois consécutives par [Répulsion](http://wildstar.datminer.com/fr/spell/57729) (sinon gros dégats)
+- Éviter de se faire toucher deux fois consécutives par [Répulsion](http://wildstar.datminer.com/fr/spell/57729) (sinon gros dégats)
 
 Les attaques à éviter
 ---------------------
@@ -33,8 +33,8 @@ Les attaques à éviter
 - Les AOE rondes au sol ([Répulsion](http://wildstar.datminer.com/fr/spell/57729)) pendant tout le combat
 - [Invasion](http://wildstar.datminer.com/fr/spell/60623), se regrouper au poteau annoncé sur le vocal
 
-Les attaques à intérompre
--------------------------
+Les attaques à interrompre
+--------------------------
   Rien
 
 Stratégies spécifiques

@@ -10,8 +10,8 @@ Les attaques à éviter
 ---------------------
 - [Précipitation enragée](http://wildstar.datminer.com/fr/spell/61467): charge en ligne sur un joueur aléatoire
 
-Les attaques à intérompre
--------------------------
+Les attaques à interrompre
+--------------------------
 - [Recharge répulsive](http://wildstar.datminer.com/fr/spell/61471): heal le pack (2 groupes de kick)
 
 Les (de)buffs
@@ -23,7 +23,7 @@ Stratégies spécifiques
 ### Tanks
 - Séparer l'exterminateur et le conquérant (pour éviter qu'ils se buffent)
 - L'exterminateur doit être tanké hors du groupe du raid (AOE autour du mob)
-- Le portefléau est tanké avec le conquérent
+- Le portefléau est tanké avec le conquérant
 - Le tailleguerre n'a pas d'agro
 
 ### DPS
@@ -62,7 +62,7 @@ Important
 
 Les attaques à éviter
 ---------------------
-- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851): fait apparaitre des AOEs rondes et persistentes
+- [Reproduction-infâme](http://wildstar.datminer.com/fr/spell/69851): fait apparaître des AOEs rondes et persistantes
 
 Composition du raid
 -------------------
@@ -88,7 +88,7 @@ Abomination expérimentale corrompue (x2)
 Stratégie générale
 ------------------
 - Deux abominations tankées séparément
-- Elles gagnent à tour de rôle un buff qui renvoit les dégats
+- Elles gagnent à tour de rôle un buff qui renvoi les dégats
 
 Important
 ---------
@@ -124,19 +124,19 @@ Symbiote Génétique (x2)
 
 Stratégie générale
 ------------------
-- Les symbiotes se buffent (diminution dégats) s'il sont à proximoté l'un de l'autre
+- Les symbiotes se buffent (diminution dégats) s'il sont à proximité l'un de l'autre
 - Ils doivent être tués ~ en même temps (à 10s près)
 
 Important
 ---------
-- Les symbiotes doivent mourrir à 10s d'intervalle maximum: un seul groupe de DPS qui switch de symbiote ou bien deux groupes coordonnés
+- Les symbiotes doivent mourir à 10s d'intervalle maximum: un seul groupe de DPS qui switch de symbiote ou bien deux groupes coordonnés
 
 Les attaques à éviter
 ---------------------
 - [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926): cône ~40° en face des symbiotes
 
-Les attaques à intérompre
--------------------------
+Les attaques à interrompre
+--------------------------
 - [Onde de choc symbiotique](http://wildstar.datminer.com/fr/spell/56926)
 
 Stratégies spécifiques

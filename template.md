@@ -4,9 +4,9 @@ Important
 ---------
 Les attaques à éviter
 ---------------------
-Les attaques à intérompre
--------------------------
-Les Les (de)buffs
+Les attaques à interrompre
+--------------------------
+Les Les (dé)buffs
 -----------------
 Stratégies spécifiques
 ----------------------

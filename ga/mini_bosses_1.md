@@ -8,7 +8,7 @@ Mutant horriblement déformé
 
 Stratégie générale
 ------------------
-- Le boss fait apparaitre des poulpes:
+- Le boss fait apparaître des poulpes:
 - Si le boss les mange il gagne un buff de dégats (stack)
 - Chaque joueur touché par un poulpe prend un DoT&debuff (stack) + une AOE à ses pieds
 
@@ -16,8 +16,8 @@ Important
 ---------
 - Se répartir dans la zone
 
-Les attaques à intérompre
--------------------------
+Les attaques à interrompre
+--------------------------
 - [Consommation Génétique](http://wildstar.datminer.com/fr/spell/62733): heal le boss
 
 Composition du raid
@@ -52,7 +52,7 @@ Stratégie générale
 Les attaques à éviter
 ---------------------
 - La douche !
-- Les oeufs qui explosent si on tappe dessus
+- Les oeufs qui explosent si on tape dessus
 - Les AOE rondes (persistentes) des oeufs explosés
 
 Stratégies spécifiques
@@ -109,7 +109,7 @@ Opérateur du Gravitron
 Stratégie générale
 ------------------
 - Tous les 25% HP, le boss met le raid à 1HP et le propulse en l'air
-- Le boss fait apparaitre des zones sous des joueurs au hasard: bump en l'air à la fin du cast
+- Le boss fait apparaître des zones sous des joueurs au hasard: bump en l'air à la fin du cast
 - Il attire tout le raid sur lui et cast une AOE dont les dégats sont répartis sur les personnes touchées
 
 Important
@@ -117,7 +117,7 @@ Important
 - Se répartir pour éviter de se faire bump par [Pointe de gravité](http://wildstar.datminer.com/fr/spell/62708)
 - Les joueurs ciblés par [Pointe de gravité](http://wildstar.datminer.com/fr/spell/62708) ne doivent pas bouger
 - Ne pas sortir de l'AOE de [Flux de gravité](http://wildstar.datminer.com/fr/spell/2826) (quand le boss attire le raid)
-- Attérir dans la safe-zone verte lorsque le raid est projeté en l'air par [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736) (la zone apparait avant le bump: prendre ses repères avant chaque ~25% HP)
+- Atterrir dans la safe-zone verte lorsque le raid est projeté en l'air par [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736) (la zone apparaît avant le bump: prendre ses repères avant chaque ~25% HP)
 - Se regrouper après [Poussée de Gravité](http://wildstar.datminer.com/fr/spell/62736) pour se faire healer
 
 
@@ -169,8 +169,8 @@ Important
 ---------
 - Tout le raid se déplace pour prendre les AOEs sur [Ravage](http://wildstar.datminer.com/fr/spell/62946)
 
-Les attaques à intérompre
--------------------------
+Les attaques à interrompre
+--------------------------
 - [Décomposition génétique](http://wildstar.datminer.com/fr/spell/62947)
 
 Les (de)buffs
