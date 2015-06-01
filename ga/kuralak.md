@@ -1,7 +1,7 @@
 Kuralak l'Impie
 ===============
-![Kuralak l'Impie](http://i.imgur.com/jGyHFVJ.png)
-![La salle du combat](http://i.imgur.com/wLc0Cdn.png)
+![Kuralak l'Impie](http://i.imgur.com/cHYdtK8.png)
+![La salle du combat](http://i.imgur.com/t2lpMGt.png)
 
 Stratégie générale
 ------------------
