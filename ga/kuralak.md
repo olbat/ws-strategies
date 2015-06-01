@@ -72,7 +72,7 @@ Traductions
 - [Disparaître dans les ténèbres](http://wildstar.datminer.com/fr/spell/60121) / [Vanish into Darkness](http://wildstar.datminer.com/en/spell/60121)
 - [Corruption chromosomique](http://wildstar.datminer.com/fr/spell/56652) / [Chromosome Corruption](http://wildstar.datminer.com/en/spell/56652)
 - [Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559) / [Cultivate Corruption](http://wildstar.datminer.com/en/spell/60559)
-- [Répulsion](http://wildstar.datminer.com/fr/spell/57729) / [Vileness](http://wildstar.datminer.com/fr/spell/57729)
+- [Répulsion](http://wildstar.datminer.com/fr/spell/57729) / [Vileness](http://wildstar.datminer.com/en/spell/57729)
 - [Invasion](http://wildstar.datminer.com/fr/spell/60623) / [Outbreak](http://wildstar.datminer.com/en/spell/60623)
 - [Siphon d'ADN](http://wildstar.datminer.com/fr/spell/56589) / [DNA Siphon](http://wildstar.datminer.com/en/spell/56589)
 - [Vue obstruée](http://wildstar.datminer.com/fr/spell/51605) / [Obstruct Vision](http://wildstar.datminer.com/en/spell/51605)
