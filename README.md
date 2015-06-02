@@ -22,23 +22,13 @@ Les Archives Génétiques
 - Boss: Ohmna la Terriphage
 
 
-About
-=====
+Notes
+-----
 
-Overview
---------
-This is a draft of a _French_ guide for Wildstar's Raids.
+Les fichiers [Markdown](http://en.wikipedia.org/wiki/Markdown) du guide sont utilisés pour générer du [BBCode](http://en.wikipedia.org/wiki/BBCode) (via [md2bb](md2bb)) utilisé dans des posts sur un forum externe.
 
-__Note__: the guide's files are used to generate BBCode hosted on [an external forum](http://www.guilde-lunae.fr/viewtopic.php?f=27&t=257): there is chances this guide will be bugfixed directly on the forum (no update in the repository).
+En conséquent, il y a des chances que les fichiers de ce guide soient corrigés directement sur le forum (pas de corrections dans ce dépot donc).
 
+Cependant, n'hésitez pas à me signaler toute erreur de ma part (via [pull request](https://help.github.com/articles/using-pull-requests/) ou via le [bug tracker](https://github.com/olbat/ws-strategies/issues)).
 
-Convert the Markdown guide files to a BBCode one
-------------------------------------------------
-### with Docker
-1. [Install Docker](https://docs.docker.com/installation/#installation)
-2. Pull the image containing the runtime environment: `docker pull olbat/ws-strategies`
-3. Run the script: `docker run -v $(pwd):/src olbat/ws-strategies`
-
-### without Docker
-1. [Install Ruby runtime environment](https://www.ruby-lang.org/en/documentation/installation/)
-2. Run: `for f in */*.md; do ./md2bb < $f > ${f%.md}.bb; done`
+Si vous souhaitez, vous aussi, générer du [BBCode](http://en.wikipedia.org/wiki/BBCode) pour copier le guide sur un forum [phpBB](https://www.phpbb.com/), je vous conseille de jetter un oeil aux [instructions d'utilisation](md2bb.md) du script [md2bb](md2bb).
