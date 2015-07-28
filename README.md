@@ -13,8 +13,8 @@ Les Archives Génétiques
 ### 2ième étage
 - Trashs
 - [Mini-Bosses](ga/mini_bosses_2.md)
-- Boss: Prototypes technophages
-- Boss: Phagegueule
+- [Boss: Prototypes technophages](ga/prototypes.md)
+- [Boss: Phagegueule](ga/phage_maw.md)
 - Boss: Convergence néophage
 
 ### Final
