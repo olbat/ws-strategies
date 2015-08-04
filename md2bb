@@ -7,14 +7,11 @@ Encoding::default_external = Encoding::UTF_8 if defined? Encoding
 # read text from shell
 s = $stdin.read
 
-# horizontal rule
-s.gsub! /^\n(- *|\* *){3,}$/, "\n[hr][/hr]"
+# Non-standard manual indent (using non-breaking spaces)
+s.gsub! /^\s{2}([^\s])/, '  \1'
 
-# new lines
-#s.gsub! /^([a-zA-Z].*)\n^\s*([a-zA-Z])/, '\\1 \\2'
-#s.gsub! /\n\n(\s*[^=\-#*+`])/, "\n\\1"
-#s.gsub! /^(.*)\n\n(.*)$/, "\\1\n\\2"
-s.gsub! "\n\n\n", "\n\n"
+# horizontal rule
+s.gsub! /^\n(- *|\* *){3,}$/, "\n[rule]\n"
 
 # bold and italic
 s.gsub! /\*\*\*(\S.*?)\*\*\*/, '[b][i]\1[/i][/b]'
@@ -45,8 +42,8 @@ s.gsub! /\[([^\]]*)\]\(([^)]*)\)/, '[url=\2]\1[/url]'
 
 # code block
 ## with backticks
-s.gsub! /```(.*?)```/m, '[spoil]\1[/spoil]'
-s.gsub! /\[\/spoil\]\n\n/, "[/spoil]\n"
+s.gsub! /^```([^\n]*)\n(.*?)```/m, '[spoiler=\1]\2[/spoiler]'
+s.gsub! /\[\/spoiler\]\n\n/, "[/spoiler]\n"
 
 ## with spacing or tabs
 s.gsub! /^(^ {4}|\t)/, "[code]\n\\1" # beginning
@@ -56,17 +53,17 @@ s.gsub! /^(( {4}|\t).*)\n/, "\\1\n[/code]\n" # end
 s.gsub! /(^ {4}|\t)/, '' # middle
 
 # inline code
-s.gsub! /`(.*?)`/, '[font=courier new,courier,monospace]\1[/font]'
+s.gsub! /`(.*?)`/, '[highlight]\1[/highlight]'
 
 # headers
-tmp = '[h1]\1[/h1]'
+tmp = "[b][size=6]\\1[/size][/b]\n"
 s.gsub! /^#\s(.*?)[ #]*$/, tmp # big
 s.gsub! /^(.*?)$\n^===[ =]*$/, tmp # big
-tmp = '[h2]\1[/h2]'
+tmp = "\n[b][size=5]\\1[/size][/b]"
 s.gsub! /^##\s(.*?)[ #]*$/, tmp # medium
 s.gsub! /^(.*?)$\n^---[ -]*$/, tmp # medium
-s.gsub! /^###\s(.*?)[ #]*$/, '[h3]\1[/h3]' # small
-s.gsub! /^####\s(.*?)[ #]*$/, '[h4]\1[/h4]' # very small
+s.gsub! /^###\s(.*?)[ #]*$/, "\n[b][size=4]\\1[/size][/b]" # small
+s.gsub! /^####\s(.*?)[ #]*$/, "\n[b][size=2]\\1[/size][/b]" # very small
 
 # lists
 ## unordered
@@ -89,10 +86,20 @@ s.gsub! /^(\[\^.*?\].*)/, "\n\\1" # spacing between references
 s.gsub! /^\n{2}(\[\^.*?\])/, "\n" + "—"*10 + "\n\\1" # division before references
 s.gsub! /\[\^(.*?)\]/, '[sup]\1[/sup]' # footnotes in text
 
+# new lines
+#s.gsub! /^([a-zA-Z].*)\n^\s*([a-zA-Z])/, '\\1 \\2'
+#s.gsub! /\n\n(\s*[^=\-#*+`])/, "\n\\1"
+#s.gsub! /^(.*)\n\n(.*)$/, "\\1\n\\2"
+s.gsub! /\n\n\n+/m, "\n\n"
+
 
 ### Non-standard ###
-#
-s.gsub! /^(https?:\/\/www\.youtube\.com\/\S+)$/, "[align=center][bbvideo=640,360]\\1[/bbvideo][/align]"
-s.gsub! /^\s{2}([^\s])/, '[indent]20[/indent]\1'
+
+# youtube video links
+s.gsub! /^(https?:\/\/www\.youtube\.com\/\S+)$/, "[center][youtube]\\1[/youtube][/center]"
+
+# underline
+s.gsub! /____(\S.*?)____/, '[u]\1[/u]'
+
 
 print s
