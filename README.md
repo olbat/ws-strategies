@@ -19,7 +19,7 @@ Les Archives Génétiques
 
 ### Final
 - Mini-Bosses
-- Boss: Ohmna la Terriphage
+- [Boss: Ohmna la Terriphage](ga/ohmna.md)
 
 
 Notes
