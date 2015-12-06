@@ -58,7 +58,8 @@ Ohmna fait apparaitre 3 mini-Ohmna (N,SE,SO) qui ont ~6m HP, ils utilisent les m
   __Phase finale: l'apocalypse__
 Ohmna triple de taille, elle continue de faire ses sorts habituels, à noter:
 - Elle cast une version géante de [Torrent génétique](http://wildstar.datminer.com/fr/spell/47441) (laser, dans le sens des aiguilles d'une montre) et [Body Slam](http://wildstar.datminer.com/fr/spell/47359) (slam)
-- Elle fait apparaitre des adds qu'il faut kick et tuer le plus rapidement que possible
+- Elle fait apparaitre des adds qu'il faut kick et tuer le plus rapidement que possible s'ils sont gênants
+- Le tank doit éviter les [Body Slam](http://wildstar.datminer.com/fr/spell/47359) en faisant une roulade sur la droite
 
 Important
 ---------
