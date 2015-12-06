@@ -52,6 +52,7 @@ Ohmna continue à lancer les capacités de la Phase 1 mais, en plus:
 Ohmna fait apparaitre 3 mini-Ohmna (N,SE,SO) qui ont ~6m HP, ils utilisent les memes capacités qu'elle:
 - Chaque groupe focus la mini-Ohmna qui lui a été attribuée (Ohmna Helper indique les directions) en se plaçant sur la plateforme la plus proche
 - Les Tanks se déplacent dans le bio-phage lors du cast du slam
+- Toutes les ~40s (3-4 attaques) les mini-Ohmna disparaissent et Ohmna lance un [Torrent génétique](http://wildstar.datminer.com/fr/spell/47441) (laser)
 
 
   __Phase finale: l'apocalypse__
@@ -67,6 +68,7 @@ Important
 - Phase 2: on stop le DPS à 16% (3.9m) HP en attendant le cast de [Torrent génétique](http://wildstar.datminer.com/fr/spell/47441)
 - Phase 3: attention aux tentacules qui continuent d'apparaite
 - Phase 3: attention au kick de [Dévorer](http://wildstar.datminer.com/fr/spell/60925)
+- Phase 3: attention à [Torrent génétique](http://wildstar.datminer.com/fr/spell/47441) lancé par Ohmna quand les mini-Ohmna disparaissent
 - Phase 4: ne pas oublier de focus les adds
 - (Phase 4: si le groupe de DPS est pack sur le Tank, tout le monde fait une roulade a droite lors du slam)
 
