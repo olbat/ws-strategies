@@ -12,6 +12,7 @@ Les Archives Génétiques
 
 ### 2ième étage
 - Trashs
+- Events
 - [Mini-Bosses](ga/mini_bosses_2.md)
 - [Boss: Prototypes technophages](ga/prototypes.md)
 - [Boss: Phagegueule](ga/phage_maw.md)
